@@ -1,0 +1,26 @@
+:root {
+    --branco-principal: #fff;
+    --mentira: #b30909;
+    --cor-fundo: #123E59;
+    --cor-primária: #49C2F2;
+}
+
+body {
+    background-color: var(--cor-fundo);
+    color: var(--branco-principal);
+    font-family: "Noto Serif", serif;
+    text-align: center;
+}
+
+.azul {
+    color: var(--cor-primária)
+}
+
+section{
+    text-align: left;
+}
+
+a {
+    color: var(--cor-primária);
+    text-decoration: none;
+}
